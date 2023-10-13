@@ -163,9 +163,9 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ### Training Loss, Validation Loss Vs Iteration Plot
 ![](https://github.com/RanjithD18/named-entity-recognition/blob/main/1.png)
 ### Accuracy, Validation Accuracy Vs Iteration Plot:
-![](https://github.com/RanjithD18/named-entity-recognition/blob/main/1.png)
+![](https://github.com/RanjithD18/named-entity-recognition/blob/main/2.png)
 ### Sample Text Prediction
-![](https://github.com/RanjithD18/named-entity-recognition/blob/main/1.png)
+![](https://github.com/RanjithD18/named-entity-recognition/blob/main/3.png)
 
 ## RESULT
 Thus, an LSTM-based model for recognizing the named entities in the text is successfully developed.
